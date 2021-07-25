@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactPagination/static/css/main.4e4b0299.chunk.css",
+    "main.js": "/reactPagination/static/js/main.3df5e558.chunk.js",
+    "main.js.map": "/reactPagination/static/js/main.3df5e558.chunk.js.map",
+    "runtime-main.js": "/reactPagination/static/js/runtime-main.49d325e1.js",
+    "runtime-main.js.map": "/reactPagination/static/js/runtime-main.49d325e1.js.map",
+    "static/js/2.b79bb511.chunk.js": "/reactPagination/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/reactPagination/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/reactPagination/index.html",
+    "precache-manifest.ede445ea60c562690f250d625977f789.js": "/reactPagination/precache-manifest.ede445ea60c562690f250d625977f789.js",
+    "service-worker.js": "/reactPagination/service-worker.js",
+    "static/css/main.4e4b0299.chunk.css.map": "/reactPagination/static/css/main.4e4b0299.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/reactPagination/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49d325e1.js",
+    "static/js/2.b79bb511.chunk.js",
+    "static/css/main.4e4b0299.chunk.css",
+    "static/js/main.3df5e558.chunk.js"
+  ]
+}
